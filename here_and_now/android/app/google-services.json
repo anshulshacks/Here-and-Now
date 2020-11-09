@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "589510910238",
+    "firebase_url": "https://here-and-now-6517b.firebaseio.com",
+    "project_id": "here-and-now-6517b",
+    "storage_bucket": "here-and-now-6517b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589510910238:android:45da7451541e699ee8e90f",
+        "android_client_info": {
+          "package_name": "com.example.here_and_now"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589510910238-5bircf2e59js76i209psebpg2btm8d23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBec-FFDuSLD5meFw_hlo5iU4yiyQg9fi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589510910238-5bircf2e59js76i209psebpg2btm8d23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
